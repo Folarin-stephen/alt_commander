@@ -1,4 +1,4 @@
-#! C:\Users\STEVE PC\desktop\alt_commander node
+
 
 const list = require('./cli/list')
 const add = require('./cli/add')
